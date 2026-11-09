@@ -56,9 +56,9 @@ The table below lists leading commercial mobile testing clouds, automated device
 
 Open-source automation runners, device control tools, and test frameworks execute tests on local devices, simulators, emulators, or connected cloud device farms.
 
-Repositories below are sorted in descending order by GitHub star count:
+Repositories below are sorted in descending order by GitHub Stars_Count:
 
-| Repository & Stars | Description | Target Platforms | Primary Drivers / Cloud Support |
+| Repository & GitHub_Stars | Description | Target Platforms | Primary Drivers / Cloud Support |
 |---|---|---|---|
 | **[Appium](https://github.com/appium/appium)** [![Stars](https://img.shields.io/github/stars/appium/appium?style=social&color=white)](https://github.com/appium/appium/stargazers) | The industry standard, cross-platform test automation framework for native, hybrid, and mobile web apps utilizing the W3C WebDriver specification. | Android, iOS, Windows, macOS | Appium Drivers (UIAutomator2, XCUITest, Espresso), all cloud farms |
 | **[Maestro](https://github.com/mobile-dev-inc/maestro)** [![Stars](https://img.shields.io/github/stars/mobile-dev-inc/maestro?style=social&color=white)](https://github.com/mobile-dev-inc/maestro/stargazers) | Modern, fast, and simple UI automation framework for mobile apps with declarative, clean YAML syntax and built-in flakiness tolerance. | Android, iOS, React Native, Flutter | Built-in Maestro driver, local devices & cloud farms |
