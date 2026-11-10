@@ -19,6 +19,7 @@
   <a href="#-sector-overview--market-dynamics">Sector Overview</a> •
   <a href="#-saas-mobile-testing-platforms--device-clouds">SaaS Platforms & Pricing</a> •
   <a href="#-open-source-mobile-test-runners--frameworks">Open-Source Frameworks</a> •
+  <a href="#-local-ai-qa-agents">Local AI QA Agents</a> •
   <a href="#-star-history">Star History</a> •
   <a href="#-support--community">Support</a>
 </p>
@@ -72,6 +73,16 @@ Repositories below are sorted in descending order by GitHub Stars_Count:
 | **[Kaspresso](https://github.com/KasperskyLab/Kaspresso)** [![Stars](https://img.shields.io/github/stars/KasperskyLab/Kaspresso?style=social&color=white)](https://github.com/KasperskyLab/Kaspresso/stargazers) | Robust Android UI testing framework based on Espresso and UIAutomator with flakiness protection, DSL, and ADB interceptor steps. | Android | Espresso, Kakao DSL, UIAutomator |
 | **[Appium Inspector](https://github.com/appium/appium-inspector)** [![Stars](https://img.shields.io/github/stars/appium/appium-inspector?style=social&color=white)](https://github.com/appium/appium-inspector/stargazers) | GUI inspector app for exploring UI hierarchies, inspecting mobile app elements, and recording test automation code for Appium. | Android, iOS | Electron, Appium Server |
 | **[maestro-runner](https://github.com/devicelab-dev/maestro-runner)** [![Stars](https://img.shields.io/github/stars/devicelab-dev/maestro-runner?style=social&color=white)](https://github.com/devicelab-dev/maestro-runner/stargazers) | Open-source, lightweight CLI test runner alternative for Maestro mobile UI test workflows; 100% free with no JVM overhead. | Android 5.0+, iOS 15.0+ | DeviceLab driver, UIAutomator2, Appium, Cloud farms |
+
+---
+
+## 🤖 Local AI QA Agents
+
+Tools that run locally with configured model access and a browser or device environment. Check the listed license for permitted use.
+
+| Tool | Targets | License & local costs | Description |
+|---|---|---|---|
+| [agent-qa](https://vostride.com) ([source](https://github.com/vostride/agent-qa)) | Android and iOS | FSL-1.1-ALv2; free local software for permitted use, model/device costs separate | Natural-language QA with persistent memidex memory, validated self-improvement and recorded steps/screenshots; CLI, dashboard and MCP. |
 
 ---
 
